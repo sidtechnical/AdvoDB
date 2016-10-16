@@ -13,4 +13,4 @@ _P.S: This is a sub-project of our "**Advocacy as a career**" project. More info
 
 The idea as of now is to display the information in an easily searchable and visually appealing format. It could be as simple as the map shown below, but ofcourse with much more information. 
 
-![sample_map]({{site.baseurl}}//map.png)
+![]({{site.baseurl}}//map.png)
