@@ -8,3 +8,5 @@ There are a lot of advocacy and civil society organizations around the globe, sp
 In short, the "Global Advocacy Database" is an online platform where one can search for information about all advocacy and civil society organizations.
 
 _P.S: This is a sub-project of our "**Advocacy as a career**" project. More information will be made publically available soon._
+
+**2. How does this look like?**
